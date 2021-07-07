@@ -1,0 +1,2 @@
+rootProject.name = "Imc Calculator"
+include ':app'
